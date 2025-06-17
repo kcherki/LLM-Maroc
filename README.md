@@ -10,8 +10,3 @@ Ce projet vise à développer un chatbot conversationnel multilingue capable de 
 - **Personnalisation** : Capacité à adapter les réponses en fonction des préférences de l'utilisateur et du contexte de la conversation.
 - **Intégration facile** : API RESTful pour une intégration simple avec d'autres applications et services.
 
-## Technologies Utilisées
-- **Langages de programmation** : Python, JavaScript
-- **Frameworks** : Flask (pour le backend), TensorFlow ou PyTorch (pour le modèle NLP)
-- **Base de données** : MongoDB ou PostgreSQL (pour stocker les données des utilisateurs et les conversations)
-- **Outils de développement** : Git, Docker
